@@ -1,2 +1,2 @@
 # EjemploPOO_Pokemon
-Ejemplo de POO con Java (Programación Orientada a Objetos) utilizando clases abstractas e interfaces
+Ejemplo de POO (Programación Orientada a Objetos) con Java, utilizando clases abstractas e interfaces
